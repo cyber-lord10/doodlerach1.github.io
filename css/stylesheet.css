@@ -1,0 +1,17 @@
+
+p:last-child {
+	
+}
+body {
+
+}
+.col-sm-6 {
+	margin-top: 25px;
+}
+a, a:hover {
+	text-decoration: none;
+}
+a:focus, a:active {
+	background-color: grey;
+	color: black;
+}
